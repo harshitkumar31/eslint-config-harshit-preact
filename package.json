@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-harshit-preact",
+  "version": "1.0.0",
+  "description": "My Eslint Config for Preact projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "preact"
+  ],
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "author": "Harshit Kumar <hrsht.kumar1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint-plugin-jest": "^21.24.1",
+    "eslint-plugin-react": "^7.11.1"
+  }
+}
